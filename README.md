@@ -23,7 +23,13 @@ Temperature Alert Agent - 230550 is a weather information retriever. It allows u
 i.e: cd HACKAI_Hack-230550/src
 
 
-4. Set up the environment variables by signing up at OneWeather and getting an API key for yourself, then set up the BASE URL and API KEY in the .ENV file. After that, run all the following commands in a bash environment:
+4. Set up the environment variables by signing up at OneWeather and getting an API key for yourself, then set up the BASE URL and API KEY in the .ENV file. If the .env file doesn't exist at the time of repository cloning, simply create a .env file which is at the same folder hierachy/access level as main.py with theh following lines:
+   
+##export BASE_URL="https://api.openweathermap.org/data/2.5/weather?"
+
+##export API_KEY="{YOUR API KEY}"
+
+After that, run all the following commands in a bash environment:
 
 ##source .env
 
