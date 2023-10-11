@@ -20,15 +20,19 @@ Temperature Alert Agent - 230550 is a weather information retriever. It allows u
 3. Navigate to the main project directory:
 
 ##cd path_to_your_project_directory
+
 4. Set up the environment:
 
 ##source .env
+
 5. Install the dependencies:
 
 ##poetry install
+
 6. Execute the main script:
 
 ##poetry run python main.py
+
 7. If you wish to interact with the agents using the client, in a new terminal:
 
 ##cd path_to_your_project_directory
