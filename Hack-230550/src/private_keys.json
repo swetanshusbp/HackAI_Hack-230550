@@ -1,0 +1,25 @@
+{
+    "low_temp": {
+        "identity_key": "a904de16c9872f280f0e1092c58ca7c26a40b2fe62d33f817b65f44d2f88b427",
+        "wallet_key": "QuRWUVz1e1StS/FyOTFMPuF+GMy7Gb9kyJLxPlpzrKU="
+    },
+    "high_temp": {
+        "identity_key": "59f8b6cdc33ab8d6231e54a279dca2100eeafaa3a4a43aafa1d9bb6ce1a51d0f",
+        "wallet_key": "jg/hX2qzDRP5sBeXm4OZ5QEddz+Lu+RXuNO0TttZ3Bg="
+    },
+    "32": {
+        "identity_key": "6098c5bed3dd1c797dff71cc65f18937620b6d08951ac32fc3701867054cbd5a",
+        "wallet_key": "t3L9tVMWIF3YczmHDxbEWa9whV6aLNZCNFCnmyeoMCI="
+    },
+    "Chennai": {
+        "identity_key": "9d49346c32d512eb517ac003cb066b7ce6d55ac5a032c7bfc9bdc888db30a314",
+        "wallet_key": "VWCjK9Lir2Kx100JPcqYizQ02T5syYLxXKSFS8aT4is="
+    },
+    "CHennai": {
+        "identity_key": "95c207fddac6b0e40be03e53f9c120be659c1362e99c6cab872ccb052f9d5071",
+        "wallet_key": "Kq3KcNHEmHj+oBdOpZfc4zFWMt2d3fTjjIGWSher84w="
+    },
+    "weather_agent": {
+        "identity_key": "6573474fef68f265e89e3db51585bfbd7ea5307ce1a5c570d9f54e154e0a6b5d",
+        "wallet_key": "VkC612cuLMPtDQLLBG9+jYdGJauqbnEA+h/zvM+7XY8="
+    }
